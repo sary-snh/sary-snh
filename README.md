@@ -49,10 +49,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="49%"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="49%"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=sary-snh&show_icons=true&theme=radical" width="49%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sary-snh&layout=compact&theme=radical" width="49%"/>  
 
 </div>
+
 
 ---
 
