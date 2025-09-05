@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm  Awaad Al Muareb
 
-🎓 B.Sc. Business Administration – University of the People (2024)  
-📚 Currently studying at Hogeschool van Amsterdam – Schakeljaar (2025)  
+🎓 B.Sc. Business Administration – University of the People  
 📊 Passionate about **Data Analysis, Reporting, and Business Intelligence** with skills in Excel, Power BI, SQL, and Python  
 
 ---
