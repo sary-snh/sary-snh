@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <div align="center">
 
